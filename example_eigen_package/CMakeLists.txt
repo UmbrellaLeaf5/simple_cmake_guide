@@ -14,8 +14,7 @@ include_directories(${PROJECT_NAME})
 
 string(REPLACE "example_" "" TARGET_NAME "${PROJECT_NAME}")
 
-add_executable(
-  ${TARGET_NAME}
-  ${SOURSE_FILES}
-  ${HEADER_FILES}
-)
+find_package(Eigen3 3.3 REQUIRED NO_MODULE)
+
+add_executable(${TARGET_NAME} ${SOURSE_FILES} ${HEADER_FILES})
+target_link_libraries(${TARGET_NAME} Eigen3::Eigen)

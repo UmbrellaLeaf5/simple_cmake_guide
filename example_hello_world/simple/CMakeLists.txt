@@ -1,7 +1,7 @@
-project(simple_hw)
+project(simple_hello_world)
 
 add_executable(
-  simple_hw
+  simple_hello_world
   main.cpp
   hw.cpp
 

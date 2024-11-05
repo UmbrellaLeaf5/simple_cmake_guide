@@ -13,7 +13,7 @@ file(GLOB_RECURSE HEADER_FILES "*.hpp")
 include_directories(${PROJECT_NAME})
 
 add_executable(
-  ${PROJECT_NAME}_hw
+  ${PROJECT_NAME}_hello_world
   ${SOURSE_FILES}
   ${HEADER_FILES}
 )

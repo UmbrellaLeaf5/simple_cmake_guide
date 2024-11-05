@@ -4,3 +4,6 @@
 [submodule "example_nlohmann_json_package/libs/nlohmann_json"]
 	path = example_nlohmann_json_package/libs/nlohmann_json
 	url = https://github.com/nlohmann/json
+[submodule "example_complex_project"]
+	path = example_complex_project
+	url = https://github.com/UmbrellaLeaf5/alg_autumn_homeworks

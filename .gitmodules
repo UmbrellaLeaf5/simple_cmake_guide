@@ -1,0 +1,3 @@
+[submodule "example_fltk_package"]
+	path = example_fltk_package
+	url = https://github.com/UmbrellaLeaf5/graphic_calculator

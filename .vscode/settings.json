@@ -1,11 +1,13 @@
 {
   "cSpell.words": [
     "cnst",
+    "DIFFEQ",
     "Eigen",
     "prnt",
     "randint",
     "выраж",
     "первич",
-    "токене"
+    "токене",
+    "nlohmann"
   ]
 }

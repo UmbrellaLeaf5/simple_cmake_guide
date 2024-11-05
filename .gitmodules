@@ -7,3 +7,9 @@
 [submodule "example_complex_project"]
 	path = example_complex_project
 	url = https://github.com/UmbrellaLeaf5/alg_autumn_homeworks
+[submodule "example_c_language"]
+	path = example_c_language
+	url = https://github.com/UmbrellaLeaf5/os_homeworks
+[submodule "example_assembly_language"]
+	path = example_assembly_language
+	url = https://github.com/UmbrellaLeaf5/assembly_text_task

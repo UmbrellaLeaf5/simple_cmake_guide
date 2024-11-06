@@ -7,8 +7,8 @@ set(CMAKE_CXX_STANDARD 23)
 set(CMAKE_CXX_STANDARD_REQUIRED ON)
 set(CMAKE_CXX_FLAGS "-Wall -Wextra -pedantic -std=c++23 -O2")
 
-file(GLOB_RECURSE SOURSE_FILES "*.cpp")
-file(GLOB_RECURSE HEADER_FILES "*.hpp" "*.h")
+file(GLOB SOURSE_FILES "*.cpp")
+file(GLOB HEADER_FILES "*.hpp" "*.h")
 
 include_directories(${PROJECT_NAME})
 

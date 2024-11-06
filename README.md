@@ -16,6 +16,7 @@
   * [Example 5: Using Nlohmann/json library](#example-5-using-nlohmannjson-library)
   * [Example 6: Complex CMake project](#example-6-complex-cmake-project)
   * [Example 7&8: Another languages projects](#example-78-another-languages-projects)
+  * [Useful links](#useful-links)
 
 ## CMake configuring in VS Code
 
@@ -115,3 +116,9 @@ pacman -S mingw-w64-x86_64-fltk
 **! Предупреждение !**
 
 Компилируется только под указанной архитектурой процессора!
+
+## Useful links
+
+ты C++ РАЗРАБОТЧИК?) ага. — Текст : электронный, видеоряд // YouTube : [сайт](https://www.youtube.com/watch?v=CCBH8UQHCW4&ab_channel=Winderton).
+
+CMake Documentation and Community. — Текст : электронный // CMake : [сайт](https://cmake.org/documentation).
